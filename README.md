@@ -1,8 +1,8 @@
 # Tema1PC-Tetris
 [Tema1 Programarea Calculatoarelor (2018-2019, seria CB)]
 
-
 Programul simuleaza un joc de Tetris care foloseste scrierea binara a numerelor pentru codificarea hartii si a pieselor.
+Enunt: https://ocw.cs.pub.ro/courses/programare/teme_2018/tema1_2018_cbd
 
 Functia "is_set" testeaza daca bitul i din scrierea numarului n este setat(are valoarea 1).
 Functia "print_map" afiseaza harta sub codificarea ceruta de enuntul problemei cu "." pentru bitul 0 si "#" pentru bitul 1.Aceasta parcurge fiecare bit din numar si prin apelarea functiei "is_set" afla daca e 0 sau 1.
